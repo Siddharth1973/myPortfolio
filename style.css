@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.first-container {
+    width: 100%;
+    background-color: salmon;
+    padding: 20px 0 0 0;
+    position: relative;
+
+}
+
+.last-container{
+    background-color: sandybrown;
+    padding: 20px 0 20px 0;;
+}
+
+span>a{
+    text-decoration: none;
+}
+.upper-cloud {
+    position: absolute;
+    left: 1.25rem;
+}
+
+.name {
+    width: 20%;
+    margin: 0 auto;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 5vw;
+}
+
+.post {
+    width: 20%;
+    margin: 0 auto;
+    color: aqua;
+    font-size: 3vw;
+}
+
+.lower-cloud {
+    position: absolute;
+    max-width: 25%;
+    height: auto;
+    right: 20px;
+    top: 30%;
+}
+
+/* .flower {
+    position: absolute;
+    
+    left: 30%;
+    top: 5%;
+} */
+
+.student {
+    border: 2px solid rgb(31, 128, 180);
+    border-radius: 50%;
+    border-style: dotted;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.project {
+    border: 2px dotted rgb(19, 223, 230);
+    border-radius: 50%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.second-container {
+    text-align: left;
+    width: 50%;
+    margin: 0 auto 200px auto;
+}
+
+.third-container {
+    text-align: right;
+    width: 50%;
+    margin: 0 auto 200px auto;
+}
+
+h1 {
+    color: aquamarine;
+}
+
+h2 {
+    color: aquamarine;
+}
+
+h3 {
+    color: aquamarine;
+}
+.mountain{
+    max-width: 100%;
+}
+
+hr{
+    width: 30%;
+    margin: 0 auto;
+    border: 4px dotted rgb(19, 223, 230);
+   border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
